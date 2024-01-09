@@ -1,0 +1,608 @@
+{
+    "HTML": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "None of the above"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What tag is used to define an unordered list?",
+        "options": ["<ul>", "<li>", "<ol>", "<list>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "options": ["To define the main content of the page", "To contain metadata about the document", "To display a heading on the page", "To create a hyperlink"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "options": ["<a>", "<link>", "<href>", "<hyper>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML attribute 'href' stand for?",
+        "options": ["Hypertext Reference", "Hyperlink Reference", "HTML Reference", "Hypertext Resource"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which HTML element is used to specify a footer for a document or section?",
+        "options": ["<footer>", "<bottom>", "<end>", "<section-footer>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <aside> element?",
+        "options": ["To define a section that contains navigation links", "To mark additional content that is related to the main content", "To create a sidebar for the website", "To add a comment in the HTML code"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+        "options": ["alt", "title", "src", "link"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <nav> element?",
+        "options": ["To create a section of navigation links", "To mark a block of code", "To define the main content of the page", "To include a video file"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML <abbr> tag stand for?",
+        "options": ["Abbreviation", "Abstract", "Address", "Attribute"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": ["<lb>", "<break>", "<br>", "<linebreak>"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which attribute is used to provide an advisory text about an element or its contents in HTML5?",
+        "options": ["title", "description", "tooltip", "advisory"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In HTML, which element is used to specify a title for the entire document?",
+        "options": ["<header>", "<title>", "<head>", "<h1>"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the HTML <b> element?",
+        "options": ["To create bold text", "To italicize text", "To create a link", "To define a section of content"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "options": ["class", "style", "font", "css"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the HTML <q> element represent?",
+        "options": ["Quotation", "Quote", "Qualifier", "Quest"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML5 <article> element?",
+        "options": ["To represent a sidebar content", "To mark additional content that is related to the main content", "To define a main content area", "To create a footer"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of the HTML <iframe> element?",
+        "options": ["To create a dropdown list", "To embed another document within the current HTML document", "To highlight text", "To define a section of content"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which tag is used to define a table in HTML?",
+        "options": ["<table>", "<tr>", "<td>", "<th>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML attribute 'target' specify?",
+        "options": ["The name of the link", "The type of content", "Where to open the linked document", "The size of the element"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of the HTML5 <main> element?",
+        "options": ["To represent a sidebar content", "To mark additional content that is related to the main content", "To define a main content area", "To create a footer"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which attribute is used to specify an image filename in HTML?",
+        "options": ["src", "img", "link", "href"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML <strong> element represent?",
+        "options": ["Text that should be marked with bold emphasis", "Text that should be marked with italic emphasis", "A hyperlink", "An important text"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which tag is used to create a numbered list in HTML?",
+        "options": ["<nl>", "<ul>", "<ol>", "<li>"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of the HTML5 <section> element?",
+        "options": ["To represent a sidebar content", "To mark additional content that is related to the main content", "To define a main content area", "To create a footer"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which HTML element is used to define navigation links?",
+        "options": ["<nav>", "<link>", "<a>", "<ul>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <em> element?",
+        "options": ["To create bold text", "To italicize text", "To underline text", "To define a section of content"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the HTML5 <mark> element represent?",
+        "options": ["Highlighted text", "A navigation link", "An important text", "Italicized text"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which tag is used to create a form in HTML?",
+        "options": ["<form>", "<input>", "<submit>", "<button>"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML attribute 'alt' in an image tag?",
+        "options": ["To specify the alignment of the image", "To define the alternative text for the image", "To set the size of the image", "To link the image to another webpage"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the correct HTML element for inserting a horizontal line?",
+        "options": ["<line>", "<hr>", "<break>", "<linebreak>"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which attribute is used to specify the URL of the page the link goes to?",
+        "options": ["href", "url", "link", "src"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML <cite> element represent?",
+        "options": ["A block of code", "A citation or reference to a creative work", "An inline quotation", "An emphasized text"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which tag is used to create a dropdown list in HTML?",
+        "options": ["<list>", "<select>", "<dropdown>", "<options>"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the HTML <code> element?",
+        "options": ["To define a section of content", "To create bold text", "To display computer code", "To italicize text"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which attribute is used to provide extra information about an element in HTML?",
+        "options": ["extra", "info", "title", "description"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of the HTML5 <progress> element?",
+        "options": ["To represent the progress of a task", "To create a hyperlink", "To define a footer", "To mark a section of content"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML <meter> element represent?",
+        "options": ["A unit of measurement", "A scaled value within a known range", "An inline image", "A block of code"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which attribute is used to define inline styles in HTML?",
+        "options": ["style", "class", "font", "css"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the HTML <figcaption> element represent?",
+        "options": ["An image caption", "A footer", "A navigation link", "A blockquote"],
+        "correctAnswer": 0
+      }
+    ],
+    "CSS": [
+      {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which property is used to change the text color in CSS?",
+        "options": ["text-color", "color", "font-color", "foreground-color"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What property is used to set the background color of an element in CSS?",
+        "options": ["bgcolor", "background-color", "color", "background"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which CSS property is used for controlling the layout?",
+        "options": ["display", "position", "layout", "arrangement"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which value is used in CSS to make an element completely invisible?",
+        "options": ["hidden", "none", "transparent", "invisible"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the 'float' property in CSS do?",
+        "options": ["Moves an element to the left or right, allowing content to flow around it", "Makes text bold", "Changes the font size", "Moves an element up and down"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which CSS property is used to add shadows to elements?",
+        "options": ["shadow", "text-shadow", "box-shadow", "element-shadow"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the 'margin' property in CSS define?",
+        "options": ["The space between an element's border and content", "The space between elements", "The space between an element's border and the next element", "The space between an element's padding and border"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which property in CSS is used for making text bold?",
+        "options": ["text-style", "font-weight", "bold", "text-bold"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the CSS property 'opacity' do?",
+        "options": ["Changes the element's background color", "Controls the transparency of an element", "Changes the element's font style", "Makes an element's content invisible"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which CSS property is used to change the size of the text?",
+        "options": ["font-style", "text-size", "font-size", "size"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the CSS property 'border-radius' define?",
+        "options": ["The width of the border", "The color of the border", "The shape of the corners of an element", "The style of the border"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of the 'z-index' property in CSS?",
+        "options": ["Controls the transparency of an element", "Defines the stacking order of elements", "Changes the text alignment", "Controls the size of an element"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used to change the font of an element in CSS?",
+        "options": ["font", "text-font", "font-family", "text-family"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the 'position: absolute' CSS property do?",
+        "options": ["Aligns the text to the center", "Removes the element from the normal flow and positions it in relation to its closest positioned ancestor", "Hides the element", "Changes the element's font"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the CSS 'transition' property do?",
+        "options": ["Changes the size of the element", "Creates animated effects when changing CSS properties", "Changes the element's position", "Changes the element's font color"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which CSS property is used for changing the space between letters in text?",
+        "options": ["text-spacing", "letter-spacing", "spacing", "text-letter"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the 'box-sizing' property in CSS?",
+        "options": ["Defines the size of the element's box", "Controls the visibility of an element", "Defines how the width and height of an element are calculated", "Adds a border to the element"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which property is used for adding a background image in CSS?",
+        "options": ["image", "background-image", "bg-image", "image-source"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'display: inline-block' property do in CSS?",
+        "options": ["Displays elements as blocks", "Displays elements as inline elements with block-level properties", "Hides the element", "Changes the element's font"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the CSS property 'flex-direction' define?",
+        "options": ["The direction of the elements within a flex container", "The font size of the text", "The background color of an element", "The width of the element"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which property is used to set the opacity of an element in CSS?",
+        "options": ["opacity", "transparent", "visibility", "display"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the CSS 'text-decoration' property do?",
+        "options": ["Changes the font style", "Adds decoration to text like underline, overline, or line-through", "Changes the text color", "Hides the text"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'transform' property do in CSS?",
+        "options": ["Changes the size of the element", "Applies a 3D transformation to an element", "Rearranges the position of the elements", "Changes the text alignment"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used to specify the space between the cells of a table in CSS?",
+        "options": ["table-spacing", "cell-spacing", "cell-padding", "border-spacing"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the purpose of the 'overflow' property in CSS?",
+        "options": ["Defines the size of the element's box", "Controls what happens to content that overflows its container", "Defines the visibility of an element", "Adds a border to the element"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used for setting the style of the top border of an element in CSS?",
+        "options": ["border-top", "border-style", "border-top-style", "top-border"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the CSS property 'pointer-events' control?",
+        "options": ["The appearance of the mouse cursor", "The functionality of clicking on elements", "The spacing between elements", "The font style"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used for controlling the order of flex items in a flex container in CSS?",
+        "options": ["order", "flex-order", "item-order", "flex-item-order"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the 'backface-visibility' property in CSS?",
+        "options": ["Controls the visibility of the back side of an element", "Defines the visibility of an element", "Adds a background color to the element", "Hides the text"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the CSS property 'grid-template-columns' define?",
+        "options": ["The number of columns in a grid container", "The size of each column in a grid container", "The alignment of grid items", "The background color of a grid"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used to change the space between words in CSS?",
+        "options": ["spacing", "word-spacing", "text-spacing", "word-space"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'text-transform' property in CSS do?",
+        "options": ["Changes the font style", "Transforms text to uppercase or lowercase", "Adds decoration to text", "Changes the text color"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used to create rounded corners in CSS?",
+        "options": ["corner-radius", "border-radius", "rounded-corners", "corner-style"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'box-shadow' property in CSS do?",
+        "options": ["Adds a shadow to the bottom of an element", "Adds a shadow to the top of an element", "Adds a shadow to the left of an element", "Adds a shadow to an element"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which property in CSS is used to change the height of an element?",
+        "options": ["height", "element-height", "size", "height-size"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the CSS property 'flex-wrap' control?",
+        "options": ["The width of flex items", "The wrapping of flex items", "The spacing between flex items", "The alignment of flex items"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which property is used to change the style of the cursor in CSS?",
+        "options": ["pointer", "cursor-style", "mouse-cursor", "cursor"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the 'outline' property in CSS do?",
+        "options": ["Adds an outline around an element", "Adds a shadow to an element", "Changes the font style", "Adds a border to the element"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which property is used to change the thickness of the border in CSS?",
+        "options": ["border-thickness", "line-width", "border-width", "thickness"],
+        "correctAnswer": 2
+      }
+    ],
+    "JS": [
+      {
+        "question": "What is JavaScript?",
+        "options": ["A programming language", "A markup language", "A database", "A stylesheet language"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "let", "const", "variable"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does DOM stand for in JavaScript?",
+        "options": ["Document Object Model", "Data Object Model", "Digital Ordinance Model", "Distributed Object Management"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which method is used to print something in the console in JavaScript?",
+        "options": ["console.log()", "print()", "log()", "output()"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of '=== 'operator in JavaScript?",
+        "options": ["Assign value", "Check equality without type coercion", "Check equality with type coercion", "Check inequality"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is an array in JavaScript?",
+        "options": ["A single variable to store multiple values", "A data type that stores a key-value pair", "A function", "A method"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which keyword is used to create a function in JavaScript?",
+        "options": ["method", "func", "function", "create"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does 'NaN' stand for in JavaScript?",
+        "options": ["Not a Null", "Not a Number", "Null and None", "Number and Null"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which loop is used for iterating over an array in JavaScript?",
+        "options": ["for loop", "while loop", "do-while loop", "for...in loop"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a closure in JavaScript?",
+        "options": ["A way to protect data within a function", "A function that is defined inside another function", "A way to create private variables", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does 'typeof' operator do in JavaScript?",
+        "options": ["Checks if a variable is defined", "Returns the type of a variable or expression", "Checks if two values are equal", "Converts a value to a string"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which method is used to add a new element to an array in JavaScript?",
+        "options": ["addElement()", "push()", "append()", "insert()"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does 'JSON' stand for in JavaScript?",
+        "options": ["JavaScript Object Notation", "JavaScript Online Network", "JavaScript Object Navigation", "JavaScript Object Naming"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "options": ["Refers to the parent function", "Refers to the global object", "Refers to the current object", "Refers to the child function"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the 'map()' method do in JavaScript?",
+        "options": ["Applies a function to each element in an array and returns a new array", "Concatenates two arrays", "Removes elements from an array", "Returns the index of an element in an array"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which operator is used to combine two strings in JavaScript?",
+        "options": ["&", "+", "-", "*"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of 'event.preventDefault()' in JavaScript?",
+        "options": ["Stops the event from bubbling up the DOM tree", "Prevents the default action of an event", "Adds a new event listener", "Reloads the page"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which function is used to convert a JSON string to an object in JavaScript?",
+        "options": ["parse()", "stringify()", "toObject()", "convert()"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of 'async' and 'await' in JavaScript?",
+        "options": ["To handle errors in asynchronous functions", "To make a function asynchronous", "To pause the execution of a function until a promise is settled", "To create a promise"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does 'NaN === NaN' evaluate to in JavaScript?",
+        "options": ["true", "false", "undefined", "null"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the 'splice()' method in JavaScript?",
+        "options": ["To add elements to an array", "To remove elements from an array", "To sort the elements in an array", "To concatenate two arrays"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'Object.keys()' method return in JavaScript?",
+        "options": ["An array of an object's keys", "The number of keys in an object", "The first key of an object", "The value of an object's keys"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the 'forEach()' method do in JavaScript?",
+        "options": ["Iterates over elements of an array and performs a function on each element", "Returns the first element of an array", "Checks if an element exists in an array", "Adds elements to an array"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of 'localStorage' in JavaScript?",
+        "options": ["To store data that has no expiration time", "To store session-specific data", "To store data temporarily", "To store data on the server"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which statement is used to stop the execution of a loop in JavaScript?",
+        "options": ["break", "stop", "halt", "exit"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the 'parseInt()' function do in JavaScript?",
+        "options": ["Returns the parsed integer from a string", "Converts a number to a string", "Rounds a number to the nearest integer", "Returns the decimal part of a number"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the 'new' keyword in JavaScript?",
+        "options": ["To declare a new variable", "To create a new object", "To start a new function", "To delete an object"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which method is used to add a key-value pair to an object in JavaScript?",
+        "options": ["addKeyValue()", "insertKeyValue()", "setValue()", "Object.assign()"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does 'Hoisting' mean in JavaScript?",
+        "options": ["Moving declarations to the top of the scope", "Moving code to the top of the file", "Executing code in a loop", "Declaring variables multiple times"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the 'filter()' method do in JavaScript?",
+        "options": ["Creates a new array with elements that pass a test", "Removes elements from an array", "Sorts the elements of an array", "Concatenates two arrays"],
+        "correctAnswer": 0
+      },    {
+        "question": "What does the 'Promise' object represent in JavaScript?",
+        "options": ["A value that might not be available yet but will be resolved at some point", "An object representing an array of values", "A function that returns a value", "An immediately resolved value"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "removeLast()", "slice()", "shift()"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the 'NaN' property in JavaScript represent?",
+        "options": ["A string value", "A numeric value representing 'Not a Number'", "A boolean value", "An object"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does 'null' represent in JavaScript?",
+        "options": ["A string value", "An object with no value", "A boolean value", "An undefined value"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'setInterval()' method do in JavaScript?",
+        "options": ["Executes a function repeatedly at a specified interval", "Waits for a specified amount of time before executing a function", "Executes a function only once", "Pauses the execution of a function"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which statement is used to throw an exception in JavaScript?",
+        "options": ["throw", "catch", "try", "finally"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of the 'forEach()' method in JavaScript arrays?",
+        "options": ["To loop through each element of an array and perform a function", "To return the first element of an array", "To remove elements from an array", "To sort the elements of an array"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the 'typeof' operator return for 'null' in JavaScript?",
+        "options": ["'null'", "'undefined'", "'object'", "'number'"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which method is used to join elements of an array into a string in JavaScript?",
+        "options": ["split()", "join()", "concat()", "merge()"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the 'Math.random()' function in JavaScript do?",
+        "options": ["Returns a random number between 0 and 1", "Returns a random integer", "Rounds a number to the nearest integer", "Returns the maximum of two numbers"],
+        "correctAnswer": 0
+      }
+
+    ]
+  }

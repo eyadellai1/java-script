@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz Game</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav>
+    <ul class="nav-links">
+      <li><a href="#home">Quizz Game</a></li>
+    </ul>
+  </nav>
+    <div id="playerSelectionScreen" class="screen">
+      <h1>Welcome to the Quiz Game!</h1>
+      <button onclick="startGame('HTML')">Start HTML Quiz</button>
+      <button onclick="startGame('CSS')">Start CSS Quiz</button>
+      <button onclick="startGame('JS')">Start JS Quiz</button>
+    </div>
+
+    <div id="gameScreen" class="screen" style="display: none;">
+      <h1 id="question"></h1>
+      <div id="options">
+        <!-- Options will be displayed here -->
+      </div>
+      <h2 id="timer">Time Left: <span id="countdown"></span></h2>
+      <button id="continueBtn" onclick="continueToNextQuestion()" disabled>Continue</button>
+    </div>
+  
+    <div id="gameEndScreen" class="screen" style="display: none;">
+      <h1>Game Over</h1>
+      <div id="result"></div>
+      <button onclick="restartGame()">New Game</button>
+      <button onclick="reviewAnswers()">Review Answers</button>
+    </div>
+  
+    <script src="data.json"></script>
+    <script src="quizGame.js"></script>
+</body>
+</html>
